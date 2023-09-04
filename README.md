@@ -1,4 +1,4 @@
-# Perfil de GitHub de nicolasizb
+# Hello 👋
 
 ¡Hola! Soy Nicolas Izquierdo, un apasionado desarrollador de software con un amor por la programación y la tecnología. Me encanta resolver problemas y crear soluciones creativas utilizando diferentes lenguajes de programación y tecnologías.
 
@@ -6,7 +6,7 @@
 
 - Desarrollo de aplicaciones web y móviles.
 - Colaboración en proyectos de código abierto.
-- Trabajo con tecnologías como [lista de tecnologías que utilizas].
+- Trabajo con tecnologías como Angular, Node.js, Javascript, MySql.
 
 ## Proyectos Destacados
 
@@ -27,9 +27,9 @@ Me gusta colaborar en proyectos de código abierto y ayudar a la comunidad de de
 
 Si deseas ponerse en contacto conmigo o conocer más sobre mis proyectos, no dudes en contactarme:
 
-- Email: [tu@email.com]
-- LinkedIn: [Tu perfil de LinkedIn]
-- Twitter: [@TuUsuarioDeTwitter]
+- Email: nicolasizquierdocontacto@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicolasizquierdobustos/
+- Twitter: https://twitter.com/nicolasizb
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones.
 as to get you started:
