@@ -1,40 +1,31 @@
 # Hello 👋
 
-¡Hola! Soy Nicolas Izquierdo, un apasionado desarrollador de software con un amor por la programación y la tecnología. Me encanta resolver problemas y crear soluciones creativas utilizando diferentes lenguajes de programación y tecnologías.
+I'm Nicolás Izquierdo, a passionate Full Stack developer Passionate about providing technology-based solutions to underlying problems and daily tasks in order to streamline processes, improve user experience and facilitate accessibility and usability of web or mobile applications.
 
-## Experiencia
+## 📜 Experience
+- Development of responsive web applications.
+- I work with technologys like Angular, React, Next.js, TypeScript, Node.js, MySql.
 
-- Desarrollo de aplicaciones web y móviles.
-- Colaboración en proyectos de código abierto.
-- Trabajo con tecnologías como Angular, Node.js, Javascript, MySql.
+## 🔨 Feature projects
 
-## Proyectos Destacados
-
-Aquí algunos de mis proyectos más destacados:
+Here some of my most outstanding projects:
 
 - [Nombre del Proyecto 1](enlace al proyecto): Una breve descripción del proyecto y por qué es importante.
 - [Nombre del Proyecto 2](enlace al proyecto): Otra breve descripción y relevancia.
 - [Nombre del Proyecto 3](enlace al proyecto): Más proyectos destacados si es necesario.
 
-## Contribuciones
+## ✉️ Contact
 
-Me gusta colaborar en proyectos de código abierto y ayudar a la comunidad de desarrollo. He contribuido a los siguientes proyectos:
-
-- [Proyecto de código abierto 1](enlace al proyecto): Describe tu contribución y su importancia.
-- [Proyecto de código abierto 2](enlace al proyecto): Otra contribución destacada.
-
-## Contacto
-
-Si deseas ponerse en contacto conmigo o conocer más sobre mis proyectos, no dudes en contactarme:
+If you want to contact me or learn more about my projects, do not hesitate to contact me:
 
 - Email: nicolasizquierdocontacto@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nicolasizquierdobustos/
 - Twitter: https://twitter.com/nicolasizb
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones.
+✌️ Thanks for visiting my GitHub profile! I hope you find my projects interesting.
 as to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Veme
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
