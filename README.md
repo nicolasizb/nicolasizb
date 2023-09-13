@@ -4,13 +4,13 @@ I'm Nicolás Izquierdo, a passionate Full Stack developer Passionate about provi
 
 ## 📜 Experience
 - Development of responsive web applications.
-- I work with technologys like Angular, React, Next.js, TypeScript, Node.js, MySql.
+- I work with technologys like Angular, React, Next.js, TypeScript, Node.js, PostgreSQL.
 
 ## 🔨 Outstanding projects
 
 Here some of my most outstanding projects:
 
-- Construction corporate website from scratch (enlace al proyecto): Creation and maintenance of a robust web application from scratch presenting the value proposition, services, developed projects, team of professionals and contact forms. Using HTML5, Sass, and Typescript, along with React's Next.js framework. As a result, the company went from 0 to more than 4,000 monthly visits in 6 months through SEO strategies, in addition to improving interaction with its customers and being the means to generate a 38% annual increase in sales.
+- Development and management of a responsive web application focused on the Renewable Energy, Swimming Pools and Asset Management industry. Using HTML5, Sass and React's Next.js framework it is possible to view the services offered, company information, previously executed projects, team of professionals and contact forms. As a consequence of the above and an effective SEO strategy, the web application increased to more than 4,000 monthly visits in just 6 months, thus generating an annual increase in sales of 38%.
 
 ## ✉️ Contact
 
